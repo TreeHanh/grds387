@@ -1,7 +1,17 @@
 header {
+    margin-top: 80px;
     text-align: center;
+    font-family: "helvetica";
+    font-size: 30px;
+    font-weight: lighter;
 }
 
 h2 {
     text-align: center;
+    font-family: "helvetica";
+    font-weight: lighter;
+}
+#projects {
+    text-align: center;
+    margin-top: 40px;
 }
