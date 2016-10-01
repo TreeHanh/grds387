@@ -15,13 +15,20 @@ h2 {
 #projects {
     text-align: center;
     margin-top: 40px;
+
 }
 #projects h3 {
      color: red;
+     margin-top: 50px;
+     font-size: 20px;
 }
 #projects h4 {
     margin-top: 20px;
     margin-bottom: 20px;
+}
+.project3 {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
 }
 footer {
     margin-bottom: 50px;
